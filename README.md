@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lvc-eng
+- 👀 I’m interested in Golang
+- 🌱 I’m currently learning Project Management
+- 💞️ I’m looking to collaborate on projects that affect government 
+- 📫 How to reach me contato@lucasvieira.eng.br
